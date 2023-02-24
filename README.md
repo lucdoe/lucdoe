@@ -10,11 +10,15 @@
 - 💬 Ask me about anything related to Web Development
 - 🥅 2023 Goals: Contribute to Open Source projects
 
-# Tools/ Languages
-- TypeScript
-- Python
-- Go
-- HTML/ CSS
-- VS Code
+# Currently working with
+- TypeScript & Python
+
+# Tools
+- VS Code 💙
+- Docker 🐳
+- oh-my-zsh 💆‍♂️
+- Git + GitHub 🦾
+- Google/ StackOverflow/ ChatGPT 👀
+- Postman 🧡
 
 

@@ -1,29 +1,28 @@
 ### Hi there, I'm [Lucca](https://lucdoe.com/) 👋
 
-## I'm a passionate Web Developer
+## Another Software Engineer (who also likes GIFs)
 
 <p align="center">
   <img width="350" src="https://media.giphy.com/media/lTRuG1F4VZ3LHMpXY2/giphy.gif">
 </p>
 
-- 🌱 I’m currently learning more about DevOps
-- 💬 Ask me about anything related to Web Development
-- 🥅 2023 Goals: Contribute to Open Source projects
+## Currently fiddling on
+I am currently building an easy-to-use API Gateway for mid-sized projects. 
 
-## Currently working with
-- TypeScript & Python
-
-## Played a bit around with in the past
+## Playing around with
 - Go
+- TypeScript
+- Python
 - Flutter/ Dart
 - Elixir
 
 ## Tools
 - VS Code 💙
+- Postman 🧡
 - Docker 🐳
 - oh-my-zsh 💆‍♂️
 - Git + GitHub 🦾
-- Google/ StackOverflow/ ChatGPT 👀
-- Postman 🧡
+- DuckDuckGo/ StackOverflow/ ChatGPT (well..)👀
+
 
 

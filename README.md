@@ -13,8 +13,6 @@ I am currently building an easy-to-use API Gateway for mid-sized projects.
 - Go
 - TypeScript
 - Python
-- Flutter/ Dart
-- Elixir
 
 ## Tools
 - VS Code 💙
